@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SB-Sagor
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning flutter and Golang 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
