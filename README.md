@@ -30,9 +30,6 @@ I utilize the following technologies to bring ideas to life:
 
 ### Competitive Programming
 [![Codeforces](https://img.shields.io/badge/Codeforces-sagor009-orange?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sagor009)
-[![Codeforces](https://img.shields.io/badge/Codeforces-sagor009-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/sagor009)
-[![Codeforces](https://img.shields.io/badge/Codeforces-sagor009-1f8acb?style=for-the-badge&logo=codeforces&logoColor=yellow)](https://codeforces.com/profile/sagor009)
-[![Codeforces](https://img.shields.io/badge/Codeforces-sagor009-orange?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sagor009)
 
 ---
 
