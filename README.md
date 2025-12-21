@@ -36,9 +36,10 @@ I utilize the following technologies to bring ideas to life:
 
 | Platform | Details |
 |---------|---------|
-| **💼 LinkedIn** |<a href="https://linkedin.com/in/sb-sagor"><img src="https://img.shields.io/badge/Sheikh%20Sagor-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>|
-| **📧 Email** | <a href="mailto:sheikhsagor725@gmail.com"><img src="https://img.shields.io/badge/sheikhsagor725@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>|
- 
+| **💼 LinkedIn** | <a href="https://linkedin.com/in/sb-sagor"><img src="https://img.shields.io/badge/Sheikh%20Sagor-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a> |
+| **📧 Email** | <a href="mailto:sheikhsagor725@gmail.com"><img src="https://img.shields.io/badge/sheikhsagor725@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a> |
+| **🌐 Portfolio** | <a href="https://sheikhsportfolio2.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-4CAF50?style=flat&logo=google-chrome&logoColor=white"/></a> |
+
 ---
 
 ## 📊 GitHub Stats
