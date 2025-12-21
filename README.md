@@ -26,6 +26,13 @@ I utilize the following technologies to bring ideas to life:
 | **🚀 Deployment** | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> |
 | **🛠️ Tools** | <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> |
 
+---
+---
+### Competitive Programming
+[![Codeforces](https://img.shields.io/badge/Codeforces-sagor009-orange?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sagor009)
+[![Codeforces](https://img.shields.io/badge/Codeforces-sagor009-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/sagor009)
+[![Codeforces](https://img.shields.io/badge/Codeforces-sagor009-1f8acb?style=for-the-badge&logo=codeforces&logoColor=yellow)](https://codeforces.com/profile/sagor009)
+[![Codeforces](https://img.shields.io/badge/Codeforces-sagor009-orange?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sagor009)
 
 ---
 
@@ -33,8 +40,8 @@ I utilize the following technologies to bring ideas to life:
 
 | Platform | Details |
 |---------|---------|
-| **💼 LinkedIn** | <a href="https://linkedin.com/in/sb-sagor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
-| **📧 Email** | <a href="mailto:sheikhsagor725@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> |
+| **💼 LinkedIn** | <a href="https://linkedin.com/in/sb-sagor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>Sagor_Hassan</a> |
+| **📧 Email** | <a href="mailto:sheikhsagor725@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>sheikhsagor725@gmail.com</a> |
  |
 ---
 
@@ -53,9 +60,6 @@ I utilize the following technologies to bring ideas to life:
 <img src="https://streak-stats.demolab.com?user=SB-Sagor&theme=tokyonight" />
 </p>
 
----
-### Competitive Programming
-[![Codeforces Profile](https://img.shields.io/badge/Codeforces-sagor009-blue)](https://codeforces.com/profile/sagor009)
----
+
 
 ⭐ **Thanks for visiting my profile!**  
