@@ -7,8 +7,7 @@
 - 🔭 I’m currently working with **Flutter** (Mobile & Web Apps)  
 - ⚙️ Learning **Golang Backend Development** (API, REST, Microservices)  
 - 🎯 My Goal: Become a strong Backend + Mobile Developer  
-- 💬 Ask me about **Flutter, API Integration, Firebase, Go basics**  
-- 📫 Email: **sheikhsagor725@gmail.com**  
+- 💬 Ask me about **Flutter, API Integration, Firebase, Go basics**   
 
 ---
 
