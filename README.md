@@ -19,30 +19,15 @@ I utilize the following technologies to bring ideas to life:
 
 | Category     | Skills |
 |--------------|--------|
-| **📱 Frontend / Mobile** | 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=social&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/> |
+| **📱 Frontend / Mobile** | <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" style="border-radius:12px;"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" style="border-radius:12px;"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="border-radius:12px;"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="border-radius:12px;"/> |
 
-| **⚙️ Backend** | 
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> 
-<img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge"/> 
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/> |
+| **⚙️ Backend** | <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" style="border-radius:12px;"/> <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge" style="border-radius:12px;"/> <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" style="border-radius:12px;"/> |
 
-| **🗄️ Database** | 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> |
+| **🗄️ Database** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="border-radius:12px;"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="border-radius:12px;"/> |
 
-| **🚀 Deployment** | 
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> |
+| **🚀 Deployment** | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" style="border-radius:12px;"/><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" style="border-radius:12px;"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" style="border-radius:12px;"/> |
 
-| **🛠️ Tools** |
-<img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> |
+| **🛠️ Tools** |<img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="border-radius:12px;"/><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" style="border-radius:12px;"/> |
 
 ---
 
@@ -55,10 +40,8 @@ I utilize the following technologies to bring ideas to life:
 
 | Platform | Details |
 |---------|---------|
-| **💼 LinkedIn** |
-<a href="https://linkedin.com/in/sb-sagor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
-| **📧 Email** | 
-<a href="mailto:sheikhsagor725@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> |
+| **💼 LinkedIn** |<a href="https://linkedin.com/in/sb-sagor"><img src="https://img.shields.io/badge/Sheikh%20Sagor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>|
+| **📧 Email** | <a href="mailto:sheikhsagor725@gmail.com"><img src="https://img.shields.io/badge/sheikhsagor725@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>|
  
 ---
 
