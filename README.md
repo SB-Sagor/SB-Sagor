@@ -11,10 +11,6 @@
 
 ---
 
-## 🛠️ My Technical Skills
-
-I utilize the following technologies to bring ideas to life:
-
 ## 🧠 Tech Stack
 
 | Category     | Skills |
