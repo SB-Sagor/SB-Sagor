@@ -36,8 +36,6 @@
 | **📧 Email** | <a href="mailto:sheikhsagor725@gmail.com"><img src="https://img.shields.io/badge/sheikhsagor725@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a> |
 | **🌐 Portfolio** | <a href="https://sheikhsportfolio2.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-4CAF50?style=flat&logo=google-chrome&logoColor=white"/>
 
- |
-
 ---
 
 ## 📊 GitHub Stats
