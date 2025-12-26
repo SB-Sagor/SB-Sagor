@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi, I'm Sheikh Sagor</h1>
 <h3 align="center">Flutter & Golang Developer | Backend Learner | Competitive Programmer </h3>
 <img align="right" alt="Coding GIF" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHl2NXRjYWw5MWh4a3o4bXRzMzYzYXU2ajM2aHB5bWNjc3FtN2RmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" />
+
 ---
 
 ## 👨‍💻 About Me  
