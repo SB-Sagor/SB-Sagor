@@ -8,7 +8,7 @@
 - ⚙️ Learning **Golang Backend Development** (API, REST, Microservices)  
 - 🎯 My Goal: Become a strong Backend + Mobile Developer  
 - 💬 Ask me about **Flutter, API Integration, Firebase, Go basics**   
-
+<img align="right" alt="Coding GIF" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHl2NXRjYWw5MWh4a3o4bXRzMzYzYXU2ajM2aHB5bWNjc3FtN2RmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" />
 ---
 
 ## 🧠 Tech Stack
