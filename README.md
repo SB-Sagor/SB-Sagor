@@ -2,12 +2,15 @@
 <h3 align="center">Flutter & Golang Developer | Backend Learner | Competitive Programmer </h3>
 
 ---
+## ✨ Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 👨‍💻 About Me  
 - 🔭 I’m currently working with **Flutter** (Mobile & Web Apps)  
 - ⚙️ Learning **Golang Backend Development** (API, REST, Microservices)  
 - 🎯 My Goal: Become a strong Backend + Mobile Developer  
 - 💬 Ask me about **Flutter, API Integration, Firebase, Go basics**   
+![Profile views](https://komarev.com/ghpvc/?username=sb-sagor&color=blue&style=flat)
 
 ---
 <img align="right" alt="Coding GIF" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHl2NXRjYWw5MWh4a3o4bXRzMzYzYXU2ajM2aHB5bWNjc3FtN2RmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" />
@@ -42,8 +45,13 @@
 
 ## 🐍 Snake Game
 ![Snake animation](assets/snake.svg)
+![Metrics](https://metrics.lecoq.io/sb-sagor?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&followup=1&people=1&repositories=1&activity=1&achievements=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis=false&stars.limit=4&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&repositories.affiliations=owner&repositories.limit=4&repositories.forks=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=public&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&lines.limit=1&lines.history.limit=1&config.timezone=Asia%2FDhaka)
 
 ---
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+[![Spotify](https://novatorem-sb-sagor.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)
+
 
 ## 📊 GitHub Stats
 
