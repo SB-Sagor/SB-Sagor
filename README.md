@@ -54,8 +54,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SB-Sagor&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SB-Sagor&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sb-sagor&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
