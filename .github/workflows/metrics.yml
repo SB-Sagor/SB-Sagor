@@ -16,4 +16,8 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Dhaka
-          extras: stars, achievements, lines
+
+          # Extra modules
+          stars: yes
+          achievements: yes
+          lines: yes
