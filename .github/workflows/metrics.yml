@@ -16,9 +16,16 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Dhaka
-          stars: yes
-          achievements: yes
-          lines: yes
+
+          # Plugins
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_stars: yes
+          plugin_achievements: yes
+          plugin_lines: yes
+          plugin_followup: yes
+          plugin_people: yes
+          plugin_repositories: yes
 
       - name: Commit Metrics to repo
         run: |
