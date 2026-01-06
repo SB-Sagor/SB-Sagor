@@ -1,9 +1,9 @@
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 <h1 align="center">👋 Hi, I'm Sheikh Sagor</h1>
 <h3 align="center">Flutter & Golang Developer | Backend Learner | Competitive Programmer </h3>
 
 ---
-## ✨ Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 👨‍💻 About Me  
 - 🔭 I’m currently working with **Flutter** (Mobile & Web Apps)  
@@ -49,16 +49,14 @@
 
 ---
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-[![Spotify](https://novatorem-sb-sagor.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SB-Sagor&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SB-Sagor&layout=compact&theme=tokyonight"/>
 </p>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sb-sagor.sb-sagor)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sb-sagor/sb-sagor&title=Profile%20Views)
 
 ---
 
