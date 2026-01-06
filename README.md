@@ -40,7 +40,7 @@
 
 ---
 
-## 🐍 Snake Game Repo View
+## 🐍 Snake Game
 ![Snake animation](assets/snake.svg)
 
 ---
