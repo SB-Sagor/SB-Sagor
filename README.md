@@ -40,6 +40,11 @@
 
 ---
 
+## 🐍 Snake Game Repo View
+![Snake animation](assets/snake.svg)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -51,11 +56,6 @@
 
 ## ⚡ Activity Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sb-sagor&theme=react-dark)](https://github.com/sb-sagor)
-
----
-
-## 🐍 Snake Game Repo View
-![Snake animation](assets/snake.svg)
 
 ---
 
