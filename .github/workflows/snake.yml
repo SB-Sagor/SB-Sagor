@@ -15,7 +15,7 @@ jobs:
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: HomayraHeme
+          github_user_name: sb-sagor
           outputs: |
             dist/snake.svg
             dist/snake.gif
