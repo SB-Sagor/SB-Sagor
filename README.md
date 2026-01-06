@@ -1,4 +1,7 @@
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
+
 
 <h1 align="center">👋 Hi, I'm Sheikh Sagor</h1>
 <h3 align="center">Flutter & Golang Developer | Backend Learner | Competitive Programmer </h3>
@@ -45,7 +48,13 @@
 
 ## 🐍 Snake Game
 ![Snake animation](assets/snake.svg)
-![Metrics](https://metrics.lecoq.io/sb-sagor?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&followup=1&people=1&repositories=1&activity=1&achievements=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis=false&stars.limit=4&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&repositories.affiliations=owner&repositories.limit=4&repositories.forks=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=public&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&lines.limit=1&lines.history.limit=1&config.timezone=Asia%2FDhaka)
+
+---
+
+## 📊 Metrics
+<p align="center">
+  <img src="metrics.svg" alt="Metrics" />
+</p>
 
 ---
 
@@ -55,8 +64,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SB-Sagor&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SB-Sagor&layout=compact&theme=tokyonight"/>
 </p>
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sb-sagor.sb-sagor)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sb-sagor/sb-sagor&title=Profile%20Views)
 
 ---
 
