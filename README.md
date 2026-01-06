@@ -51,14 +51,6 @@
 
 ---
 
-## 📊 Metrics
-<p align="center">
-  <img src="metrics.svg" alt="Metrics" />
-</p>
-
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -80,5 +72,12 @@
 </p>
 
 
+## 📊 Metrics
+<p align="center">
+  <img src="metrics.svg" alt="Metrics" />
+</p>
+
+
+---
 
 ⭐ **Thanks for visiting my profile!**  
