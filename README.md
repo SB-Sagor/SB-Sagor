@@ -42,6 +42,10 @@
 
 ## 🐍 Snake Game Repo View
 ![Snake animation](assets/snake.svg)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sb-sagor&theme=dracula)](https://github.com/sb-sagor)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sb-sagor&show_icons=true&theme=radical)](https://github.com/sb-sagor)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sb-sagor&layout=compact&theme=tokyonight)](https://github.com/sb-sagor)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sb-sagor&theme=gruvbox&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
