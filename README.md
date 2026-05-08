@@ -12,7 +12,7 @@
 - 🔭 I’m currently working with **Flutter** (Mobile & Web Apps)  
 - ⚙️ Learning **Golang Backend Development** (API, REST, Microservices)  
 - 🎯 My Goal: Become a strong Backend + Mobile Developer  
-- 💬 Ask me about **Flutter, API Integration, Firebase, Go basics**
+- 💬 Ask me about **Flutter, API Integration, Firebase, Golang**
 - 🌐 Portfolio: [Sheikh's Dev](https://portfolio-eight-snowy-56.vercel.app/)
   
 ![Profile views](https://komarev.com/ghpvc/?username=sb-sagor&color=blue&style=flat)
