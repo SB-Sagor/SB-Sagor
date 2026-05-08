@@ -35,7 +35,7 @@
 
 ### 🌐 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,go,py,cpp,c,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,go,cpp,c,py,html,css" />
 </p>
 
 ### 🛠️ Tools & Platforms
