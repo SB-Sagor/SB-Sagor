@@ -46,12 +46,11 @@
 ### 🏆 Competitive Programming
 
 <p align="left">
-  <a href="https://codeforces.com/profile/sagor009" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codeforces" height="40" alt="Codeforces" />
+  <a href="https://codeforces.com/profile/sagor009" target="_blank" style="margin-right: 15px;">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CodeForces-Dark.svg" height="45" alt="Codeforces" />
   </a>
-  &nbsp;
   <a href="https://www.codechef.com/users/sagor009" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" height="40" width="40" alt="CodeChef" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" height="45" width="45" alt="CodeChef" />
   </a>
 </p>
 
