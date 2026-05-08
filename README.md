@@ -43,9 +43,16 @@
   <img src="https://skillicons.dev/icons?i=git,github,figma,firebase,linux,docker" />
 </p>
 
+### 🏆 Competitive Programming
 
-### Competitive Programming
-[![Codeforces](https://img.shields.io/badge/Codeforces-sagor009-orange?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sagor009)
+<p align="left">
+  <a href="https://codeforces.com/profile/sagor009" target="_blank">
+    <img src="https://skillicons.dev/icons?i=codeforces" height="40" />
+  </a>
+  <a href="https://www.codechef.com/users/sagor009" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" height="40" width="40" />
+  </a>
+</p>
 
 ---
 
