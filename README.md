@@ -45,14 +45,14 @@
 
 ### 🏆 Competitive Programming
 
-<p align="left">
-  <a href="https://codeforces.com/profile/sagor009" target="_blank" style="margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CodeForces-Dark.svg" height="45" alt="Codeforces" />
+<div align="left">
+  <a href="https://codeforces.com/profile/sagor009" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445?style=for-the-badge&logo=codeforces&logoColor=white&color=1f8acb" alt="Codeforces" height="40"/>
   </a>
   <a href="https://www.codechef.com/users/sagor009" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" height="45" width="45" alt="CodeChef" />
+    <img src="https://img.shields.io/badge/CodeChef-445?style=for-the-badge&logo=codechef&logoColor=white&color=5B4638" alt="CodeChef" height="40"/>
   </a>
-</p>
+</div>
 
 ---
 
