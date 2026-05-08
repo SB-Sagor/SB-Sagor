@@ -47,10 +47,11 @@
 
 <p align="left">
   <a href="https://codeforces.com/profile/sagor009" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codeforces" height="40" />
+    <img src="https://skillicons.dev/icons?i=codeforces" height="40" alt="Codeforces" />
   </a>
+  &nbsp;
   <a href="https://www.codechef.com/users/sagor009" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" height="40" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" height="40" width="40" alt="CodeChef" />
   </a>
 </p>
 
