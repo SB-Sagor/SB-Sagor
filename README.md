@@ -30,16 +30,19 @@
 | **🗄️ Database** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/> |
 | **🚀 Deployment** | <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/> |
 | **🛠️ Tools** | <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=flat&logo=visual%20studio%20code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> |
+
+---
+
 ### 🌐 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,go,py,django,cpp,c,java,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,go,py,cpp,c,java,html,css" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,trello,firebase,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,firebase,linux,docker" />
 </p>
----
+
 
 ### Competitive Programming
 [![Codeforces](https://img.shields.io/badge/Codeforces-sagor009-orange?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sagor009)
