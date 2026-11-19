@@ -4,15 +4,15 @@
 
 
 <h1 align="center">👋 Hi, I'm Sheikh Sagor</h1>
-<h3 align="center">Flutter & Golang Developer | Backend Learner | Competitive Programmer </h3>
+<h3 align="center">Flutter & .NET Developer | Backend Developer | Competitive Programmer </h3>
 
 ---
 
 ## 👨‍💻 About Me  
 - 🔭 I’m currently working with **Flutter** (Mobile & Web Apps)  
-- ⚙️ Learning **Golang Backend Development** (API, REST, Microservices)  
+- ⚙️ Building backends with **.NET & C#** (Web API, REST, Microservices)  
 - 🎯 My Goal: Become a strong Backend + Mobile Developer  
-- 💬 Ask me about **Flutter, API Integration, Firebase, Goroutine**
+- 💬 Ask me about **Flutter, .NET Web API, API Integration, Firebase**
 - 🌐 Portfolio: [Sheikh's Dev](https://portfolio-eight-snowy-56.vercel.app/)
   
 ![Profile views](https://komarev.com/ghpvc/?username=sb-sagor&color=blue&style=flat)
@@ -26,7 +26,7 @@
 | Category     | Skills |
 |--------------|--------|
 | **📱 Frontend / Mobile** | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> |
-| **⚙️ Backend** | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20API-000000?style=flat"/> <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white"/> |
+| **⚙️ Backend** | <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20API-000000?style=flat"/> <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white"/> |
 | **🗄️ Database** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/> |
 | **🚀 Deployment** | <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/> |
 | **🛠️ Tools** | <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=flat&logo=visual%20studio%20code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> |
@@ -35,7 +35,7 @@
 
 ### 🌐 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,go,cpp,c,py,html,css" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,dotnet,cs,cpp,c,py,html,css" />
 </p>
 
 ### 🛠️ Tools & Platforms
@@ -62,7 +62,7 @@
 |---------|---------|
 | **💼 LinkedIn** | <a href="https://linkedin.com/in/sb-sagor"><img src="https://img.shields.io/badge/Sagor%20Hassan-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a> |
 | **📧 Email** | <a href="mailto:sheikhsagor725@gmail.com"><img src="https://img.shields.io/badge/sheikhsagor725@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a> |
-| **🌐 Portfolio** | <a href="https://portfolio-eight-snowy-56.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4CAF50?style=flat&logo=google-chrome&logoColor=white"/> |
+| **🌐 Portfolio** | <a href="https://portfolio-eight-snowy-56.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4CAF50?style=flat&logo=google-chrome&logoColor=white"/></a> |
 
 ---
 
@@ -99,4 +99,4 @@
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
+⭐ **Thanks for visiting my profile!**
